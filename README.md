@@ -10,7 +10,7 @@ This project is based on an original version developed by the **RadiusProxy**, w
 - [@proudparrot2](https://github.com/proudparrot2) 
 - [@Exp1o1](https://github.com/Exp1o1)
 - [@ExpiredWarranty](https://github.com/ExpiredWarranty)
-- [@genericness](https://github.com/genericness).
+- [@genericness](https://github.com/genericness)
 
 The project is licensed under the **AGPL** License you can find the License here [LICENSE](LICENSE)
 
