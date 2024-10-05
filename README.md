@@ -1,23 +1,30 @@
 # RADIUS
-## Simple, Super & Squeaky clean.
-## https://radiusowski.site
 
+## Simple, Super & Squeaky Clean Web Proxy
 
-Owned by Owski and Proudparrot2.
+Visit us at: [https://radiusowski.site](https://radiusowski.site)
 
-Developed by Radius Dev team.  
-All rights reserved by Radius Proxy.
+### Credits & License
+This project is based on an original version developed by the **RadiusProxy**, with the main contributions from @Entrpix, @proudparrot2, @Exp1o1, @ExpiredWarranty, @genericness.
+
+The project is licensed under the **AGPL** License you can find the License here [LICENSE](LICENSE)
+
+**Original Project:** Owned and maintained by **RadiusProxy**.  
+All rights reserved by the original owners.  
 
 ### What is Radius?
-Radius is a UV based proxy for browsing the web and looking stylish while doing it.
-By using Radius we can promise you a clean user experience, and 0 ads.
-Be sure to check out our games section! We offer a great variety of proxied games!
+Radius is a modern, stylish proxy built on **UV** technology, offering a clean and seamless browsing experience. With **Radius**, you can enjoy:
 
-## Link Hosters:
-We are getting things handled for self-hosting, for now try making an iframe to the main site.
+- A sleek, minimalist interface
+- Ad-free browsing
+- A variety of proxied games in our exclusive games section!
 
-## Issues?
-DM The Owners!
-Owski9 is owski09 on discord!
-ProudParrot2 is proudparrot2 on discord as well.
+### How to Host Radius
+We’re currently working on enabling easy self-hosting options. In the meantime, you can create an iframe to embed the main site for personal use.
 
+### Need Help?
+If you encounter any issues or have questions, feel free to reach out to the owners directly on Discord:
+
+- **Owski**: `owski09`
+
+We’re here to help and would love to hear your feedback!
